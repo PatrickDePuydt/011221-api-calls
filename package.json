@@ -1,0 +1,23 @@
+{
+  "name": "011221-api-calls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickDePuydt/011221-api-calls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickDePuydt/011221-api-calls/issues"
+  },
+  "homepage": "https://github.com/PatrickDePuydt/011221-api-calls#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
