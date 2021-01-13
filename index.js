@@ -10,7 +10,7 @@ const app = express();
 app.get('/', (req, res) => {
   axios.get('http://www.google.com')
     .then(response => {
-      console.log(`response: `, response);
+      res.send(response.data);
     });
 });
 
