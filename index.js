@@ -6,6 +6,7 @@ require('dotenv').config();
 // Initialize our express server
 const app = express();
 
+
 // Write out a home route (stub)
 
 app.get('/', (req, res) => {
